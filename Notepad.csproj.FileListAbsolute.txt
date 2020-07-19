@@ -1,0 +1,10 @@
+C:\Users\SAURABH RAJ\Desktop\HANDS_ON_ASSINGNMENT\TM12\NOTEPAD\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\SAURABH RAJ\Desktop\HANDS_ON_ASSINGNMENT\TM12\NOTEPAD\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\SAURABH RAJ\Desktop\HANDS_ON_ASSINGNMENT\TM12\NOTEPAD\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\SAURABH RAJ\Desktop\HANDS_ON_ASSINGNMENT\TM12\NOTEPAD\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+C:\Users\SAURABH RAJ\Desktop\HANDS_ON_ASSINGNMENT\TM12\NOTEPAD\Notepad\Notepad\obj\Debug\Notepad.Form1.resources
+C:\Users\SAURABH RAJ\Desktop\HANDS_ON_ASSINGNMENT\TM12\NOTEPAD\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\SAURABH RAJ\Desktop\HANDS_ON_ASSINGNMENT\TM12\NOTEPAD\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\SAURABH RAJ\Desktop\HANDS_ON_ASSINGNMENT\TM12\NOTEPAD\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\SAURABH RAJ\Desktop\HANDS_ON_ASSINGNMENT\TM12\NOTEPAD\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\SAURABH RAJ\Desktop\HANDS_ON_ASSINGNMENT\TM12\NOTEPAD\Notepad\Notepad\obj\Debug\Notepad.pdb

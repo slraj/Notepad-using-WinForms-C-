@@ -30,15 +30,15 @@ Just Follow these steps to run this project:
           Resources.resx
           Settings.Designer.cs
           Settings.settings
-         (Now paste below files in Notepad folder.)
+        (Now paste below files in Notepad folder.)
          App.config
          Form1.cs
          Form1.Designer.cs
          Form1.resx
          Notepad.csproj
          Program.cs
-      (Now last work is to paste the below file outside of Notepad folder)
-      Notepad.sln
+  (Now last work is to paste the below file outside of Notepad folder)
+   Notepad.sln
       
       
 2. Now open visual studio and open the Notepad.sln file
